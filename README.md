@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Student
 -------
 
-I'm a little Software Developer, Have a passion fro learning Programming
+I'm a little Software Developer, Have a passion for learning Programming
 
 * 🌍  I'm based in Chon buri, Thailand
 * ✉️  You can contact me at [nuttaphoncp2023@gmail.com](mailto:nuttaphoncp2023@gmail.com)
