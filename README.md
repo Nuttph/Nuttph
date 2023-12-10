@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Student at KASETSART UNIVERSITY
 -------------------------------
 
-I'm a little Software Developer, Have a passion fro learning Programming
+I'm a little Software Developer, Have a passion for learning Programming
 
 * 🌍  I'm based in Chon buri, Thailand
 * ✉️  You can contact me at [nathn2420@gmail.com](mailto:nathn2420@gmail.com)
