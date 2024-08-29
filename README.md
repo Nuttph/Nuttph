@@ -1,3 +1,5 @@
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
 # 💫 About Me:
 👨‍🎓I study at Kasetsart University Sriracha Campus<br>👨‍💻I work in software, IT or new technology<br>✨I like to learn new things. Because technology never stops<br>😊I live in Thailand And I really like the city of smiles.<br>
 
