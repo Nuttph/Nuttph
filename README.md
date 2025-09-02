@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍🎓I am a second-year student majoring in Digital Science and Technology (DiSTech) at Kasetsart University, Sriracha Campus.<br>👨‍💻I am dedicated to pursuing a career in software development and software engineering.<br>✨I have a passion for exploring the latest technologies that drive our world forward.<br>😊I am Thai, so please be kind and take care of me!<br>
+👨‍🎓I am a third-year student majoring in Digital Science and Technology (DiSTech) at Kasetsart University, Sriracha Campus.<br>👨‍💻I am dedicated to pursuing a career in software development and software engineering.<br>✨I have a passion for exploring the latest technologies that drive our world forward.<br>😊I am Thai, so please be kind and take care of me!<br>
 
 
 ## 🌐 Socials:
